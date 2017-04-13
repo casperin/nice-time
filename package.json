@@ -1,6 +1,6 @@
 {
   "name": "nice-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lose implementation of Golang's time.format",
   "main": "index.js",
   "scripts": {
