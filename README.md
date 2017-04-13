@@ -24,5 +24,13 @@ niceTime('Mon Jan 2 3:04pm 2006', date)
 // Formatting <3
 nt('On the second day of the month at the fifteenth hour', date)
 'On the twentyfirst day of the month at the sixteenth hour'
+
+// You can prepend numbers with 0, _ or nothing for different formats.
+niceTime('Hour: "3"', date)
+'Hour: "4"'
+niceTime('Hour: "03"', date)
+'Hour: "04"'
+niceTime('Hour: "_3"', date)
+'Hour: " 4"'
 ```
 
