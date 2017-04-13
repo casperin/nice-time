@@ -1,0 +1,26 @@
+{
+  "name": "nice-time",
+  "version": "1.0.0",
+  "description": "Lose implementation of Golang's time.format",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casperin/nice-time.git"
+  },
+  "keywords": [
+    "time",
+    "format"
+  ],
+  "author": "Gorm Casper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/casperin/nice-time/issues"
+  },
+  "homepage": "https://github.com/casperin/nice-time#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
