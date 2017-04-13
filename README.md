@@ -1,5 +1,7 @@
 # Nice Time
 
+[![CircleCI](https://circleci.com/gh/casperin/nice-time.svg?style=svg)](https://circleci.com/gh/casperin/nice-time)
+
 A lose implementation of Golang's `Time.format` method.
 
 It's (mostly) a single function to format a date after a given
